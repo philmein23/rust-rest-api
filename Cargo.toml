@@ -20,5 +20,5 @@ diesel = { version = "1.4", features = ["postgres", "r2d2", "uuid", "chrono"] }
 diesel_migrations = "1.4"
 lazy_static = "1.4"
 r2d2 = "0.8"
-uuid = { version =  "0.6", features = ["serde", "v4"] }
+uuid = { version = "0.6", features = ["serde", "v4"] }
 
